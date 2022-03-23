@@ -1,4 +1,4 @@
-![MasterHead](https://reshmasaujani.com/wp-content/uploads/RS-BANNER-IMAGE-GIRLS.jpg)
+![MasterHead](https://www.canva.com/design/DAE7xCfqVkU/2jMWwu6EDwN_pfIVsxYAJg/view?utm_content=DAE7xCfqVkU&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
 <h1 align="center">Hi 👋, I'm Somaya Moniry</h1>
 <h3 align="center">In the process of becoming Frontend Web-developer.</h3>
 
