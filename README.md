@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Somaya Moniry</h1>
-<h3 align="center">In the process of becoming Frontend Web-developer.</h3>
+<h3 align="center">Frontend Web-developer.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://global-uploads.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd9b0c622e2a6b02b483d_idea-1.png">
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/somayeh01696359" target="blank"><img src="https://img.shields.io/twitter/follow/somayeh01696359?logo=twitter&style=for-the-badge" alt="somayeh01696359" /></a> </p>
 
-- 🌱 I’m currently learning **Tailwind,Javascript,CSS**
+- 🌱 I’m currently learning **Javascript,React**
 
 - 📫 How to reach me **Somayehmoniry23@gmail.com**
 
