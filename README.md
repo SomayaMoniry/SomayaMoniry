@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Somaya Moniry</h1>
-<h3 align="center">Self-taught learner</h3>
+<h3 align="center">Self-taught Learner</h3>
 
 <img align="right" alt="Coding" width="400" src="https://global-uploads.webflow.com/5e3ce2ec7f6e53c045fe7cfa/603dd9b0c622e2a6b02b483d_idea-1.png">
 
